@@ -4,3 +4,4 @@
 # created-by: conda 24.9.2
 
 fastapi~=0.112.2
+uvicorn==0.32.0
